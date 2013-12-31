@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 . ghdl_options.sh
 
 ghdl -m ${MAKE_OPTIONS} fpga_top

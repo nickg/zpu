@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 . ghdl_options.sh
 
 mkdir -p work
